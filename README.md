@@ -3,7 +3,7 @@ Create Divs dinamically in meteor and assign templates to them
 
 Usage:
 
-When you need to create a DIV and assign a temlate call:
+When you need to create a DIV and assign a template call:
 
     createDynaTemplate (tmplt,clss,dvid)
     /* tmplt = Template Name
